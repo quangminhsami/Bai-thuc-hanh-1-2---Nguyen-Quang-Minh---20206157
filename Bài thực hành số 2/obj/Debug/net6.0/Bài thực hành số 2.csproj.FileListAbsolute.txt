@@ -1,0 +1,30 @@
+B:\GT số cô Yến\BT trên lớp\phương pháp dây cung\Bài thực hành số 2\bin\Debug\net6.0\Bài thực hành số 2.exe
+B:\GT số cô Yến\BT trên lớp\phương pháp dây cung\Bài thực hành số 2\bin\Debug\net6.0\Bài thực hành số 2.deps.json
+B:\GT số cô Yến\BT trên lớp\phương pháp dây cung\Bài thực hành số 2\bin\Debug\net6.0\Bài thực hành số 2.runtimeconfig.json
+B:\GT số cô Yến\BT trên lớp\phương pháp dây cung\Bài thực hành số 2\bin\Debug\net6.0\Bài thực hành số 2.dll
+B:\GT số cô Yến\BT trên lớp\phương pháp dây cung\Bài thực hành số 2\bin\Debug\net6.0\Bài thực hành số 2.pdb
+B:\GT số cô Yến\BT trên lớp\phương pháp dây cung\Bài thực hành số 2\obj\Debug\net6.0\Bài thực hành số 2.csproj.AssemblyReference.cache
+B:\GT số cô Yến\BT trên lớp\phương pháp dây cung\Bài thực hành số 2\obj\Debug\net6.0\Bài thực hành số 2.GeneratedMSBuildEditorConfig.editorconfig
+B:\GT số cô Yến\BT trên lớp\phương pháp dây cung\Bài thực hành số 2\obj\Debug\net6.0\Bài thực hành số 2.AssemblyInfoInputs.cache
+B:\GT số cô Yến\BT trên lớp\phương pháp dây cung\Bài thực hành số 2\obj\Debug\net6.0\Bài thực hành số 2.AssemblyInfo.cs
+B:\GT số cô Yến\BT trên lớp\phương pháp dây cung\Bài thực hành số 2\obj\Debug\net6.0\Bài thực hành số 2.csproj.CoreCompileInputs.cache
+B:\GT số cô Yến\BT trên lớp\phương pháp dây cung\Bài thực hành số 2\obj\Debug\net6.0\Bài thực hành số 2.dll
+B:\GT số cô Yến\BT trên lớp\phương pháp dây cung\Bài thực hành số 2\obj\Debug\net6.0\refint\Bài thực hành số 2.dll
+B:\GT số cô Yến\BT trên lớp\phương pháp dây cung\Bài thực hành số 2\obj\Debug\net6.0\Bài thực hành số 2.pdb
+B:\GT số cô Yến\BT trên lớp\phương pháp dây cung\Bài thực hành số 2\obj\Debug\net6.0\Bài thực hành số 2.genruntimeconfig.cache
+B:\GT số cô Yến\BT trên lớp\phương pháp dây cung\Bài thực hành số 2\obj\Debug\net6.0\ref\Bài thực hành số 2.dll
+B:\KTLT thầy Nam\Bài thực hành số 2\bin\Debug\net6.0\Bài thực hành số 2.exe
+B:\KTLT thầy Nam\Bài thực hành số 2\bin\Debug\net6.0\Bài thực hành số 2.deps.json
+B:\KTLT thầy Nam\Bài thực hành số 2\bin\Debug\net6.0\Bài thực hành số 2.runtimeconfig.json
+B:\KTLT thầy Nam\Bài thực hành số 2\bin\Debug\net6.0\Bài thực hành số 2.dll
+B:\KTLT thầy Nam\Bài thực hành số 2\bin\Debug\net6.0\Bài thực hành số 2.pdb
+B:\KTLT thầy Nam\Bài thực hành số 2\obj\Debug\net6.0\Bài thực hành số 2.csproj.AssemblyReference.cache
+B:\KTLT thầy Nam\Bài thực hành số 2\obj\Debug\net6.0\Bài thực hành số 2.GeneratedMSBuildEditorConfig.editorconfig
+B:\KTLT thầy Nam\Bài thực hành số 2\obj\Debug\net6.0\Bài thực hành số 2.AssemblyInfoInputs.cache
+B:\KTLT thầy Nam\Bài thực hành số 2\obj\Debug\net6.0\Bài thực hành số 2.AssemblyInfo.cs
+B:\KTLT thầy Nam\Bài thực hành số 2\obj\Debug\net6.0\Bài thực hành số 2.csproj.CoreCompileInputs.cache
+B:\KTLT thầy Nam\Bài thực hành số 2\obj\Debug\net6.0\Bài thực hành số 2.dll
+B:\KTLT thầy Nam\Bài thực hành số 2\obj\Debug\net6.0\refint\Bài thực hành số 2.dll
+B:\KTLT thầy Nam\Bài thực hành số 2\obj\Debug\net6.0\Bài thực hành số 2.pdb
+B:\KTLT thầy Nam\Bài thực hành số 2\obj\Debug\net6.0\Bài thực hành số 2.genruntimeconfig.cache
+B:\KTLT thầy Nam\Bài thực hành số 2\obj\Debug\net6.0\ref\Bài thực hành số 2.dll
